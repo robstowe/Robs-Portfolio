@@ -85,8 +85,6 @@ header nav a {
 }
 
 .work {
-    align-items: flex-start;
-    display: inline-flex;
     padding: 20px;
     width: 100%;
     color: black;
@@ -120,6 +118,9 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin-left: 120px;
+    margin-bottom: 50px;
+
 }
  
 .flex-item {
