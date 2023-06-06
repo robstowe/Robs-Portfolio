@@ -103,10 +103,10 @@ img {
     width: 100%;
     height: 90%;
     padding-left: 10%;
-    background-image: url(../assets/Glorious-blue-mountain-range1.jpg);
+    background-image: url(../assets/craft_events.PNG);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    /* background-position: 50% 50%; */
 }
 
 #div {
